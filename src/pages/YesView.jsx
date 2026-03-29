@@ -62,14 +62,13 @@ export default function YesView() {
           Made with love ❤️
         </p>
       </motion.div>
-
-      <a
-        href="https://wa.me/2348131978538"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <button className="yes">Message me ❤️</button>
-      </a>
+    <a
+      href="https://wa.me/2348131978538?text=I%20said%20yes%20my%20love%20❤️"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <button className="yes">Message me ❤️</button>
+    </a>
     </div>
   );
 }
