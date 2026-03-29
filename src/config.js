@@ -8,7 +8,7 @@ export const CONFIG = {
   yesMessage:
     "I’m so happy I get to have an amazing and smart girlfriend like you, Series.",
   yesSubText:
-    "Thank you for saying yes. You’re truly special to me, and I can’t wait for all the beautiful moments we’ll share.",
+    "Thank you for saying yes. You’re truly special to me, and I can’t wait for all the beautiful moments and dramas we’ll share.",
 
   noMessage:
     "That’s okay. Your honesty means a lot, and I still think you’re amazing. ❤️",
